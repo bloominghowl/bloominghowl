@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on https://github.com/bloominghowl/todo-vue.git<br>👯 I’m looking to collaborate on https://github.https://github.com/bloominghowl/todo-vue.gitcom/Jasiel-Stark8/MoryaAI<br>🤝 I’m looking for help with https://github.com/bloominghowl/leafynest.git<br>🌱 I’m currently learning PHP.<br>💬 Ask me about Front-end development.<br>⚡ Fun fact, I write code with pen and paper when learning a new language.
+🔭 I’m currently working on https://github.com/bloominghowl/Finance-track-vue.git<br>👯 I’m looking to collaborate on https://github.com/Jasiel-Stark8/MoryaAI<br>🤝 I’m looking for help with https://github.com/bloominghowl/leafynest.git<br>🌱 I’m currently learning PHP.<br>💬 Ask me about Front-end development.<br>⚡ Fun fact, I write code with pen and paper when learning a new language.
 
 
 ## 🌐 Socials:
